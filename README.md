@@ -1,26 +1,27 @@
-🔰 CLONE FULL OK IDZ
 
-pkg update
+<h2 align="center">  FB CLONING TOOL </h2>
 
-pkg upgrade
 
-pkg install git
+## <b>installation</b>
 
-pkg install python
+🔰 _CLONE FULL OK IDZ_
 
-pip install requests
 
-pip install bs4 httpx
-
-rm -rf ZABL-111
-
-git clone --depth=1 https://github.com/ZABL-111/RANDOM.git
-
-cd RANDOM
-
-python RANDOM.py
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pip install requests`
+- `pip install bs4 httpx`
+- `rm -rf RANDOM`
+- `git clone --depth=1 https://github.com/ZABL-111/RANDOM.git`
+- `cd RANDOM`
+- `python RANDOM.py`
 
 
 
+ ___This Tools is Paid___</br>
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-JAHID-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801917466867)
 
-# RANDOM
+
+# PRO
